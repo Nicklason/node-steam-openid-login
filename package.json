@@ -1,0 +1,26 @@
+{
+  "name": "steam-openid-login",
+  "version": "0.1.0",
+  "description": "Sign in to websites with Steam OpenID",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./",
+    "release": "np --no-cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicklason/node-steam-openid-login.git"
+  },
+  "author": "Nicklas Marc Pedersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicklason/node-steam-openid-login/issues"
+  },
+  "homepage": "https://github.com/Nicklason/node-steam-openid-login#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.1"
+  }
+}
