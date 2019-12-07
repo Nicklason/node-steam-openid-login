@@ -1,6 +1,6 @@
 {
   "name": "steam-openid-login",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Sign in to websites with Steam OpenID",
   "main": "index.js",
   "scripts": {
